@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.syncspend.app"
+    namespace = "com.example.syncspend"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.syncspend.app"
+        applicationId = "com.example.syncspend"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
